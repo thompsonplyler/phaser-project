@@ -8,6 +8,9 @@
 
 function hideForm() {
     document.getElementById('appendForm').style.display = "none"
+    // test commit made through Github interface.
+    // to start editing, I opened this specific file in Github, then I pressed: .
+    // That's it. If I can edit and commit from here, this is officially crazy. 
   }
 
 document.addEventListener("DOMContentLoaded", function(){
